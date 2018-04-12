@@ -79,22 +79,3 @@ rm -f /etc/cron.d/1minutely;
 #start services
 systemctl enable httpd.service
 systemctl enable iptables.service
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
